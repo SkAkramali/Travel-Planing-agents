@@ -1,0 +1,19 @@
+# Core LangChain & LangGraph packages
+langgraph>=0.0.60
+langchain-core>=0.2.0
+langchain-groq>=0.1.4
+
+# Data Validation & Serialization
+pydantic>=2.7.0
+
+# Environment & Settings
+python-dotenv>=1.0.1
+
+# HTTP Clients & API Integration
+httpx>=0.27.0
+tavily-python>=0.3.3
+
+# Web API Layer
+fastapi>=0.111.0
+uvicorn>=0.30.1
+pydantic-settings>=2.3.0
